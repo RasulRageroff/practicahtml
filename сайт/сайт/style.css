@@ -1,0 +1,344 @@
+body{
+	margin: 0;
+    font-family: 'Romul';
+    background-color: white;
+    
+}
+
+*,
+*:before,
+*:after{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    
+}
+
+/*  H E A D E R */
+
+.header{
+    padding: 35px;
+    
+    
+}
+
+
+.header_inner{
+    
+    display: flex;
+    
+    
+  
+}
+.nomera{
+     
+    
+}
+.nomer22{
+    margin-left: 75px
+}
+h5{
+    color: #d0aa8c;
+}
+.header_logo{
+ margin-left: 84px;
+ 
+ 
+    
+}
+
+.buttoni{
+    text-transform: uppercase;
+    
+    
+}
+
+.btn1{
+    
+    text-decoration:none;
+    border: 1px solid #2f2c34;
+    padding: 8px 36px;
+    font-size: 14px;
+    margin-left: 82px;
+}
+
+.btn2{
+    background-color: #d0aa8c;
+    text-decoration:none;
+    margin-left: 26px;
+    color:white;
+    padding: 8px 36px;
+    
+}
+
+/*  N A V I G A T O R */
+
+.menu{
+    
+    
+    margin: 0 auto;
+    
+}
+.navg{
+    
+    padding: 27px;
+    background-color: #3a343a;
+    
+}
+
+.nvg{
+    max-width: 1200px;
+    margin-left: 140px;
+    color: white;
+    padding: 20px;
+    text-decoration:none;
+    
+    
+}
+
+.menu2{
+    display: flex;
+    justify-content: center;    
+    padding: 12px;
+    width: 100%;
+    max-width: 1170px;
+    margin: 0 auto;
+    border-bottom: 2px solid #eae9ea; 
+    
+    
+}
+
+.menun{
+    text-decoration:none;
+    color: #332f36;
+    font-size: 12px;
+}
+.menun1{
+    color:#d9baa2;
+ text-decoration:none;
+    font-size: 12px;
+}
+
+
+/*  C O N T E N T */
+
+.content{
+    width: 100%;
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.Zaglavie{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    font-size: 19px;
+}
+
+.Zaglavie2{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+
+.Zaglavie3{
+    padding: 38px;
+    margin: 0;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    color: black;
+    text-align: center;
+    
+    
+    
+}
+
+
+
+/*  MAIN - C O N T E N T */
+
+.maincontent{
+    
+    width: 100%;
+    max-width: 1170px;
+    margin: 0 auto;
+    
+    
+    
+    
+}
+
+.1pic{
+    
+    display: flex;
+    justify-content: center;
+    
+}
+.p1p{
+    padding: 25px;
+    font-size: 23px;
+    margin-left: 90px;
+}
+
+
+.linia1{
+    margin-left: 210px;
+}
+.p1p1{
+    font-size: 10px;
+    
+    text-align: center;
+}
+.vesmain{
+    max-width: 550px;
+    display: flex;
+    justify-content:space-between;
+    
+}
+
+.button5{
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+}
+.btn5{
+    
+    text-decoration:none;
+    border: 1px solid #2f2c34;
+    padding: 8px 36px;
+    font-size: 14px;
+    
+}
+
+.p3p{
+    padding: 25px;
+    font-size: 23px;
+    margin-left: 90px;
+}
+
+.p5p{
+    
+    padding: 25px;
+    font-size: 23px;
+    margin-left: 150px;
+}
+.praviycontent{
+    
+    margin-left: 60px;
+}
+
+.p2p{
+    padding: 25px;
+    font-size: 23px;
+    margin-left: 90px;
+    
+}
+
+.linia12pic{
+    margin-left: 260px;
+}
+
+.p4p{
+    padding: 25px;
+    font-size: 23px;
+    margin-left: 190px;
+}
+
+.p6p{
+    padding: 25px;
+    font-size: 23px;
+    margin-left: 190px;
+}
+
+
+/*  F O O T E R  */
+
+.footer1{
+    background: url("img/footer.jpg") center no-repeat ;
+    height: 335px;
+    
+}
+
+.footercontent{
+     width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    color: white;
+    padding: 40px;
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+
+
+
+.flin{
+    padding: 20px;
+    
+}
+.fgray{
+    font-size: 13px;
+    padding: 2px;
+    color: gray;
+}
+
+.lsz{
+    padding: 5px;
+    margin-left: 20px;
+}
+.lsz2{
+    padding: 5px;
+    margin-left: 20px;
+    color: gray;
+}
+.fzag1{
+    margin-left: 27px;
+}
+
+.lastfootline{
+    
+}
+
+.borderbox{
+    padding: 5px 10px;
+    background-color: gray; opacity: 0.9
+    
+}
+.nomerfoot{
+    
+    padding: 2px; color: white;
+}
+.graytext{
+    font-size: 8px;
+    color: #47444D;
+    margin-left: 65px;
+}
+.socseti{
+    padding: 3px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.copyright{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.copyrighttext{
+    color:#555555;
+    font-size: 12px;
+    
+}
